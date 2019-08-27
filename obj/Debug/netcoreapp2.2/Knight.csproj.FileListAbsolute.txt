@@ -1,0 +1,11 @@
+D:\Documents\9no\sistemas inteligentes\KnightProblem\bin\Debug\netcoreapp2.2\Knight.deps.json
+D:\Documents\9no\sistemas inteligentes\KnightProblem\bin\Debug\netcoreapp2.2\Knight.runtimeconfig.json
+D:\Documents\9no\sistemas inteligentes\KnightProblem\bin\Debug\netcoreapp2.2\Knight.runtimeconfig.dev.json
+D:\Documents\9no\sistemas inteligentes\KnightProblem\bin\Debug\netcoreapp2.2\Knight.dll
+D:\Documents\9no\sistemas inteligentes\KnightProblem\bin\Debug\netcoreapp2.2\Knight.pdb
+D:\Documents\9no\sistemas inteligentes\KnightProblem\obj\Debug\netcoreapp2.2\Knight.csprojAssemblyReference.cache
+D:\Documents\9no\sistemas inteligentes\KnightProblem\obj\Debug\netcoreapp2.2\Knight.csproj.CoreCompileInputs.cache
+D:\Documents\9no\sistemas inteligentes\KnightProblem\obj\Debug\netcoreapp2.2\Knight.AssemblyInfoInputs.cache
+D:\Documents\9no\sistemas inteligentes\KnightProblem\obj\Debug\netcoreapp2.2\Knight.AssemblyInfo.cs
+D:\Documents\9no\sistemas inteligentes\KnightProblem\obj\Debug\netcoreapp2.2\Knight.dll
+D:\Documents\9no\sistemas inteligentes\KnightProblem\obj\Debug\netcoreapp2.2\Knight.pdb
