@@ -1,5 +1,6 @@
 ﻿/*
     Luis Alejandro Peña Montoya A01650535
+    https://github.com/AlejandroPM96/KnightProblem
     -Problem
         
     -Environment Analysis:
