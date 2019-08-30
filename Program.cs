@@ -18,7 +18,9 @@ namespace Knight
             scoreBoard=knight.makeScoreBoard(scoreBoard);
             watch.Stop();
             var elapsedMs = watch.ElapsedMilliseconds;
-            Console.WriteLine("Solution found on: " + elapsedMs + " ms");
+            Console.WriteLine("Solution for ("+ initX + "," + initY+") found on: " + elapsedMs + " ms");
+            showInstructions();
+
         }
         static void showInstructions(){
             Console.WriteLine("x - end program");

@@ -101,9 +101,9 @@ namespace Knight
             List<int[]> nextMovesL=checkLeft(now);
             nextMovesR.AddRange(nextMovesL);
             if(this.debug){
-                Console.WriteLine("Possible Positions for" +currentPosX +","+currentPosY);
+                Console.WriteLine("Possible Positions for " +currentPosX +","+currentPosY);
                 foreach (int[] pos in nextMovesR){
-                    Console.Write(pos[0]+","+pos[1]);
+                    Console.Write("("+pos[0]+","+pos[1]+")");
                 }
                 Console.Write("\n");
             }
